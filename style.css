@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    color: red;
+}
+
+img {
+    width: 60%;
+    height: auto;
+    border: 10px double yellow
+}
+
+#homer-loves {
+    font-size: large;
+    color: fuchsia;
+}
+
+.list-loves {
+   font-size: medium;
+   color: green;
+}
+
+#homer-hates {
+    font-size: large;
+    color: fuchsia;
+}
+
+.list-hates {
+    font-size: medium;
+    color: red;
+ }
+
+
